@@ -1,0 +1,36 @@
+.chatbot-chat-select-container img {
+    height: 40px;
+}
+
+.selector-container {
+    width: 100%;
+    height: auto;
+    margin: 0 10px 5px 0;
+}
+
+.selector-content {
+    width: 100%;
+    height: 100%;
+    background: #e08b97;
+    border-radius: 5px;
+    padding: 10px 5px 5px 5px;
+    box-sizing: border-box;
+}
+
+.selector-options {
+    background:#b8717a;
+    width: 90%;
+    margin: auto;
+    padding: 5px 5px 5px 7px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    color: #fff;
+    font-size: 14px;
+    font-family: 'Quicksand-medium';
+    cursor: pointer
+}
+
+.selector-options:hover {
+    background: #914a53;
+}
